@@ -36,7 +36,7 @@ body{
     height: 300px;
 }
 .rodape{
-    background:url(imagens/agua.png) center  center no-repeat fixed;
+    background:url(imagens/agua.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
