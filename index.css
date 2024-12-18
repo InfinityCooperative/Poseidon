@@ -113,3 +113,19 @@ img.doacao:hover{
 a{
     display: contents;
 }
+.parceira{
+    width: 100px;
+    background: url(imagens/rosa\ textura.avif) center center no-repeat fixed;
+    display:inline-block;
+    border-radius: 10px;
+}
+.parceira:hover{
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.salao{
+    width: 100%;
+}
