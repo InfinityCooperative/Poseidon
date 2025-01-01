@@ -192,7 +192,7 @@ div button div a:hover{
     color: blue;
     text-decoration: underline;
 }
-.caixa:focus> .dropdown-child {
+.caixa:hover> .dropdown-child {
     display: block;
 }
 .um,
@@ -210,7 +210,7 @@ button.caixa {
         height: 53px;
         width: 53px;
 }
-button.caixa:focus{
+button.caixa:hover{
     color: white;
     border-radius: 10px 10px 0px 0px;
     border-style: none;
@@ -224,7 +224,7 @@ button.caixa:focus{
     border-radius: 10px;
     transition: 0.3s;
 }
-.caixa:focus > .um{
+.caixa:hover > .um{
     margin: 3px 0px 0px 0px;
     height: 4px;
     background-color: black;
@@ -238,7 +238,7 @@ button.caixa:focus{
     border-radius: 10px;
     transition: 0.5s;
 }
-.caixa:focus > .dois{
+.caixa:hover > .dois{
     height: 4px;
     width: 0px;
     background-color: black;
@@ -251,7 +251,7 @@ button.caixa:focus{
     border-radius: 10px;
     transition: 0.1s;
 }
-.caixa:focus > .tres{
+.caixa:hover > .tres{
     margin: -15px 0px 0px 0px ;
     height: 4px;
     background-color: black;
